@@ -1,3 +1,4 @@
+#write a function that takes the name of a text file as a parameter. Print out the 3 letter words that start with b.
 
 punctuation =  ",.?!'"
 
@@ -20,3 +21,4 @@ def find_words(filename):
                     print(word)
 
 find_words("input.txt")
+
